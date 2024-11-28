@@ -32,9 +32,10 @@
 </p>
 <br>
 <!-------------------------->
+<!--
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
-
+<!--
 <table align="left" >
 <tr border="none">
   <td width="25%" align="center">
@@ -57,7 +58,7 @@
       <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-  
+  <!--
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
@@ -68,7 +69,7 @@
       <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-
+<!--
    <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
