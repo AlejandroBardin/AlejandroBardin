@@ -42,8 +42,6 @@
 
 
 
-
-
 <div id="proyectos">
   <h2>Algunos proyectos👨🏻‍💻</h2>
   <table align="left">
@@ -57,7 +55,7 @@
         </a>
         <h3>Tecnologías usadas</h3>
         <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
-        <div style="display: flex; justify-content: space-evenly;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
           <div>
             <span>FrontEnd</span><br>
             <a href="https://github.com/AlejandroBardin/Inventory" target="blank">
@@ -72,6 +70,7 @@
           </div>
         </div>
       </td>
+      <!-- Proyecto DePelis.com -->
       <td width="50%" align="center">
         <h2>DePelis.com</h2>
         <p>Página de streaming de películas y series. Trabajo hecho con HTML, CSS y JSS. Usando el localStorage del navegador.</p>
@@ -87,6 +86,9 @@
     </tr>
   </table>
 </div>
+
+
+
 
 
 
