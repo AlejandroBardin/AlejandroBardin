@@ -54,7 +54,7 @@
           <img width="100%" src="https://i.imgur.com/20F80K3.png" alt="imagen">
         </a>
         <h3>Tecnologías usadas</h3>
-        <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
+        <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps,mongodb" /><br><br>
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div>
             <span>FrontEnd</span><br>
