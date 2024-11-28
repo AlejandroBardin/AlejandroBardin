@@ -53,7 +53,7 @@
         <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
             <img 
             width="100%" 
-            src="https://i.imgur.com/20F80K3.png" 
+            src="https://i.imgur.com/b9a8CyK_lq.mp4" 
             alt="imagen" 
             style="transition: opacity 0.3s;" 
             onmouseover="this.style.opacity=0.7" 
