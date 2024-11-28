@@ -52,15 +52,12 @@
         <p>Sistema Gestor de Inventario para Suplementos Deportivos</p>
          <p>Aplicación web desarrollada con React.js para el frontend, Node.js para el backend y MongoDB como base de datos. Permite gestionar eficientemente el inventario de productos y usuarios mediante funcionalidades completas de CRUD (Crear, Leer, Actualizar y Eliminar). </p>
         <p> Características principales: </p>
-        <p> **Gestión de usuarios:** Registro, actualización, eliminación y consulta de datos de usuarios con rutas protegidas.  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
-         <p>  </p>
+        <p> Gestión de usuarios: Registro, actualización, eliminación y consulta de datos de usuarios con rutas protegidas.  </p>
+         <p> Gestión de productos: Control de inventario, incluyendo la creación, edición, consulta y eliminación de productos.  </p>
+         <p> Seguridad: Implementación de rutas protegidas utilizando JSON Web Token (JWT) para autenticar y autorizar usuarios.  </p>
+         <p> Arquitectura RESTful: Endpoints optimizados para manejar las operaciones CRUD. </p>
+         <p> Interfaz moderna y responsiva: Construida con React.js para una experiencia de usuario fluida y amigable. </p>
+         <p> Base de datos eficiente: Uso de MongoDB para almacenamiento dinámico de datos.  </p>
           <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
             <img 
             width="100%" 
