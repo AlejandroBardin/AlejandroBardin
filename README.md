@@ -6,6 +6,7 @@
     <a href="https://www.linkedin.com/in/ale-bardin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale Bardin LinkedIn" />
     </a>
+    <br>
     <a href="" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Biblioteca de Alejandria" />
     </a>
@@ -16,7 +17,7 @@
 </div>
 
 <br>
-<br>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
