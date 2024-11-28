@@ -1,14 +1,20 @@
-<h1 align="center">Hola 👋  soy Ale ✨ </h1> 
+<div id="container" align="center">
+  <h1>Hola 👋 soy Ale ✨</h1>
+  <img src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo" />
 
+  <div>
+    <a href="https://www.linkedin.com/in/ale-bardin/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale Bardin LinkedIn" />
+    </a>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Biblioteca de Alejandria" />
+    </a>
+    <a href="https://www.youtube.com/@bibliotecadealejandria" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+    </a>
+  </div>
+</div>
 
-<img align="center" src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo"  />
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ale-bardin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale Bardin LinkedIn"/></a>
-<a href = "" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Biblioteca de Alejandria"  /></a>
-<a href="https://www.youtube.com/@bibliotecadealejandria" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
