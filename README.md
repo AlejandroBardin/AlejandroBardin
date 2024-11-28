@@ -48,7 +48,7 @@
     <tr border="none">
       <!-- Proyecto Inventory -->
       <td width="50%" align="center">
-        <h2>Inventory</h2>
+       <h2> <a href="https://inventoryrc.netlify.app/" title="Go to Source">Inventory</a></h2>
         <p>Sistema gestor de inventario para una cadena de suplementos deportivos.</p>
         <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
           <img width="100%" src="https://i.imgur.com/20F80K3.png" alt="imagen">
@@ -86,6 +86,8 @@
     </tr>
   </table>
 </div>
+ 
+
 
 
 
