@@ -12,12 +12,13 @@
 
 <p align="left">
   
-🎓 🚀 Software Developer | Especializandome en BackEnd 
-  <br>
+🎓 🚀 Software Developer | 📈 Especializandome en BackEnd | Est de Ing. en Computación
+  
+  <br><br>
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb" />
   </a>
-  <br>
+  <br><br>
   
 💻 Aquí iré dejando el seguimiento de mis proyectos
 
