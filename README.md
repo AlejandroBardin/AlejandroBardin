@@ -14,7 +14,7 @@
   
 🎓 🚀 Software Developer | 📈 Especializandome en BackEnd | Est de Ing. en Computación
   
-  <br>
+
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb" />
   </a>
