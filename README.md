@@ -39,66 +39,66 @@
 <br>
 
 
+
+
+
+
+
+
+
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-      <h2>Inventory</h2>
-      <p>Sistema gestor de inventario para una cadena de suplementos deportivos.</p><br>
-      <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
-        <img align="center" width=100% src="https://i.imgur.com/20F80K3.png"   alt="imagen" /></a>
-      </p>
-    <p align="center">
-  <td width="50%" align="center">
-  <p align="center">
-    <h2>Tecnologías usadas</h2>
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
-    <div style="display: flex; justify-content: space-evenly; width: 100%;">
-      <div>
-        <span style="display: block; margin-right: 50px;">FrontEnd</span>
-        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="FrontEnd Code" />
+  <h2>Algunos proyectos👨🏻‍💻</h2>
+  <table align="left">
+    <tr border="none">
+      <!-- Proyecto Inventory -->
+      <td width="33%" align="center">
+        <h2>Inventory</h2>
+        <p>Sistema gestor de inventario para una cadena de suplementos deportivos.</p>
+        <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
+          <img width="100%" src="https://i.imgur.com/20F80K3.png" alt="imagen">
         </a>
-      </div>
-      <div>
-        <span style="display: block; margin-left: 50px;">BackEnd</span>
-        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BackEnd Code" />
+      </td>
+      <!-- Tecnologías usadas -->
+      <td width="33%" align="center">
+        <h2>Tecnologías usadas</h2>
+        <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
+        <div style="display: flex; justify-content: space-between; width: 100%; margin: 0 20px;">
+          <div style="text-align: center;">
+            <span>FrontEnd</span><br>
+            <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="FrontEnd Code" />
+            </a>
+          </div>
+          <div style="text-align: center;">
+            <span>BackEnd</span><br>
+            <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BackEnd Code" />
+            </a>
+          </div>
+        </div>  </td>
+      <!-- Proyecto DePelis.com -->
+      <td width="33%" align="center">
+        <h2>DePelis.com</h2>
+        <p>Página de streaming de películas y series.<br>Trabajo hecho con HTML, CSS y JSS. Usando el localStorage del navegador.</p>
+        <a href="https://github.com/martin-casares/depelis" title="Go to Source">
+          <img width="100%" src="https://i.imgur.com/UYYT4Rx.png" alt="imagen">
         </a>
-      </div>
-    </div>
-  </p>
-</td>
+        <br>
+        <a href="https://youtu.be/rISmdhlhOPM" target="blank">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev">
+        </a>
+        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
 
 
-<td width="25%" align="center">
-    <p align="center">
-      <h2>DePelis.com</h2>
-      <p>Página de streaming de películas y series. <br> Trabajo hecho con HTML, CSS y JSS. Usando el localStorage del navegador.</p><br>
-      <a href="https://github.com/martin-casares/depelis" title="Go to Source">
-        <img align="center" width=100% src="https://i.imgur.com/UYYT4Rx.png"   alt="imagen" /></a>
-      </p>
-    <p align="center">
-      <h2>Tecnologías usadas</h2>
-      <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ps" /><br><br>
-      <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-
-
-
-        
-</tr>
-</table>
-  </div>
 <br>
 <br><br>
 <br>
