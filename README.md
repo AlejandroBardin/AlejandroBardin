@@ -93,8 +93,7 @@
       <td width="50%" align="center">
        <h2> <a href="https://depelis.netlify.app/" title="Go to Source">DePelis.com</a></h2>
         <p>Página de streaming de películas y series. Trabajo hecho con HTML, CSS y JSS.</p>
-        <p> Gestión de usuarios: Registro, actualización, eliminación y consulta de datos de usuarios.  </p>
-         <p> Gestión de películas: agrega, edita, consulta y elimina peliculas.  </p>
+        <p> Gestión de usuarios y películkas.</p>
          <p> Uso del LocalStorage del navegador para guardar información.  </p>
         <a href="https://github.com/martin-casares/depelis" title="Go to Source">
           <img width="100%" src="https://i.imgur.com/UYYT4Rx.png" alt="imagen">
