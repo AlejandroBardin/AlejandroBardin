@@ -61,7 +61,6 @@
       <td width="50%" align="center">
        <h2> <a href="https://inventoryrc.netlify.app/" title="Go to Source">Inventory</a></h2>
         <p>Sistema Gestor de Inventario para Suplementos Deportivos</p>
-         <p>Aplicación web desarrollada con React.js para el frontend, Node.js para el backend y MongoDB como base de datos. Permite gestionar eficientemente el inventario de productos y usuarios mediante funcionalidades completas de CRUD (Crear, Leer, Actualizar y Eliminar). </p>
             <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
             <img 
             width="100%" 
@@ -92,8 +91,7 @@
       <!-- Proyecto DePelis.com -->
       <td width="50%" align="center">
        <h2> <a href="https://depelis.netlify.app/" title="Go to Source">DePelis.com</a></h2>
-        <p>Página de streaming de películas y series. Trabajo hecho con HTML, CSS y JSS.</p>
-        <p> Gestión de usuarios y películkas.</p>
+        <p>Página de streaming de películas y series.</p>       
          <p> Uso del LocalStorage del navegador para guardar información.  </p>
         <a href="https://github.com/martin-casares/depelis" title="Go to Source">
           <img width="100%" src="https://i.imgur.com/UYYT4Rx.png" alt="imagen">
