@@ -2,7 +2,7 @@
   <h1>Hola 👋 soy Ale ✨</h1>
   <img src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo" width="200" />
   <br>
-
+  <br>
   <div>
     <a href="https://www.linkedin.com/in/ale-bardin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale Bardin LinkedIn" />
