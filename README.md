@@ -41,13 +41,15 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
-        <img align="center" width=100% src="https://imgur.com/a/iLzl5k0"   alt="imagen" /></a>
+        <img align="center" width=100% src="https://i.imgur.com/ruklh13.png"   alt="imagen" /></a>
       </p>
     <p align="center">
+          <!--
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
+    <!--
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
