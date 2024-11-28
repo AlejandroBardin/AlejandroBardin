@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Ale ✨ </h1> https://github.com/AlejandroBardin/AlejandroBardin/blob/main/README.md
+<h1 align="center">Hola 👋  soy Ale ✨ </h1> 
 
 <p align="left">
 
