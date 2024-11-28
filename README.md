@@ -12,8 +12,9 @@
 
 <p align="left">
   
-🎓 🚀 Software Developer
-
+🎓 🚀 Software Developer | Especializandome en BackEnd <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb" />
+  </a>
 💻 Aquí iré dejando el seguimiento de mis proyectos
 
 🎥 YouTuber en tiempos libres (40K subs)
