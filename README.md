@@ -51,7 +51,14 @@
        <h2> <a href="https://inventoryrc.netlify.app/" title="Go to Source">Inventory</a></h2>
         <p>Sistema gestor de inventario para una cadena de suplementos deportivos.</p>
         <a href="https://github.com/AlejandroBardin/Inventory" title="Go to Source">
-          <img width="100%" src="https://i.imgur.com/20F80K3.png" alt="imagen">
+            <img 
+            width="100%" 
+            src="https://i.imgur.com/20F80K3.png" 
+            alt="imagen" 
+            style="transition: opacity 0.3s;" 
+            onmouseover="this.style.opacity=0.7" 
+            onmouseout="this.style.opacity=1"
+            />
         </a>
         <h3>Tecnologías usadas</h3>
         <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps,mongodb" /><br><br>
