@@ -66,7 +66,7 @@
           </div>
           <div>
             <span>BackEnd</span><br>
-            <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+            <a href="https://github.com/AlejandroBardin/Backend-proyecto-71i" target="blank">
               <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BackEnd Code" />
             </a>
           </div>
@@ -80,10 +80,7 @@
         </a>
         <h3>Tecnologías usadas</h3>
         <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ps" /><br><br>
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev">
-        </a>
-        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+        <a href="https://github.com/martin-casares/depelis" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev">
         </a>
       </td>
