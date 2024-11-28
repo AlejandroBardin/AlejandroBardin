@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋  soy Ale ✨ </h1> 
 
 
-<img align="center" src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@unsimpledev"  />
+<img align="center" src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo"  />
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ale-bardin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ale Bardin LinkedIn"/></a>
 <a href = "" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Biblioteca de Alejandria"  /></a>
