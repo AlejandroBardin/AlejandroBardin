@@ -72,7 +72,7 @@
       </td>
       <!-- Proyecto DePelis.com -->
       <td width="50%" align="center">
-        <a href="https://depelis.netlify.app/" title="Go to Source"><h2>DePelis.com</h2></a>
+       <h2> <a href="https://depelis.netlify.app/" title="Go to Source">DePelis.com</a></h2>
         <p>Página de streaming de películas y series. Trabajo hecho con HTML, CSS y JSS. Usando el localStorage del navegador.</p>
         <a href="https://github.com/martin-casares/depelis" title="Go to Source">
           <img width="100%" src="https://i.imgur.com/UYYT4Rx.png" alt="imagen">
