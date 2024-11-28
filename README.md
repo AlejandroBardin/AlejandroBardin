@@ -56,15 +56,15 @@
   <p align="center">
     <h2>Tecnologías usadas</h2>
     <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
-    <div style="display: flex; justify-content: space-around; width: 100%;">
+    <div style="display: flex; justify-content: space-evenly; width: 100%;">
       <div>
-        <span style="display: block; margin-bottom: 10px;">FrontEnd</span>
+        <span style="display: block; margin-right: 50px;">FrontEnd</span>
         <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="FrontEnd Code" />
         </a>
       </div>
       <div>
-        <span style="display: block; margin-bottom: 10px;">BackEnd</span>
+        <span style="display: block; margin-left: 50px;">BackEnd</span>
         <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="BackEnd Code" />
         </a>
@@ -72,6 +72,7 @@
     </div>
   </p>
 </td>
+
 
 
 
