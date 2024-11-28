@@ -96,35 +96,6 @@
 
 
 
-<td width="25%" align="center">
-    <p align="center">
-      <h2>DePelis.com</h2>
-      <p>Página de streaming de películas y series. <br> Trabajo hecho con HTML, CSS y JSS. Usando el localStorage del navegador.</p><br>
-      <a href="https://github.com/martin-casares/depelis" title="Go to Source">
-        <img align="center" width=100% src="https://i.imgur.com/UYYT4Rx.png"   alt="imagen" /></a>
-      </p>
-    <p align="center">
-      <h2>Tecnologías usadas</h2>
-      <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,ps" /><br><br>
-      <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-
-
-
-        
-</tr>
-</table>
-  </div>
-
-
-
-
-
-
-
 <br>
 <br><br>
 <br>
