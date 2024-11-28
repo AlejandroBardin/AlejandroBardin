@@ -54,9 +54,8 @@
     <p align="center">
   <h2>Tecnologías usadas</h2>
   <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,github,postman,vscode,ps" /><br><br>
-  <span>FrontEnd</span> <span>BackEnd</span><br>
+  <span>FrontEnd</span> <span>BackEnd</span>
   <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-  
   <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
 </p>
  
