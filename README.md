@@ -1,6 +1,6 @@
 <div id="container" align="center">
   <h1>Hola 👋 soy Ale ✨</h1>
-  <img src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo" />
+  <img src="https://avatars.githubusercontent.com/u/54286167?v=4" alt="@yo" width="100" />
 
   <div>
     <a href="https://www.linkedin.com/in/ale-bardin/" target="_blank">
@@ -14,6 +14,7 @@
     </a>
   </div>
 </div>
+
 
 <br>
 <h2>Sobre mi 😃</h2>
