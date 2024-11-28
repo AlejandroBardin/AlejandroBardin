@@ -60,7 +60,7 @@
         <div style="display: flex; justify-content: space-evenly;">
           <div>
             <span>FrontEnd</span><br>
-            <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+            <a href="https://github.com/AlejandroBardin/Inventory" target="blank">
               <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="FrontEnd Code" />
             </a>
           </div>
