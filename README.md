@@ -47,14 +47,5 @@
     <img src="https://skillicons.dev/icons?i=c,cs,css,html,js,react,nodejs,mysql,git,github,docker,postman,vscode,ae,pr,ps" />
   </a>
 </p>
-<br>
-
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-<!------------------------->
 
 
